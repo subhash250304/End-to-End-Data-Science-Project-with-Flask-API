@@ -19,3 +19,4 @@ The core of this task was deploying the trained model as a RESTful API using Fla
 To test the API, I used tools like Postman and curl commands to send sample inputs and receive predictions. The application successfully responded with correct outputs, demonstrating that the entire pipeline—from data preprocessing and model training to deployment—was functioning as intended.
 
 This task was a significant learning experience in deploying machine learning models. It demonstrated how to bridge the gap between data science development and real-world application. By the end of the task, I had built a complete, functional web service capable of delivering ML predictions in real-time, simulating how ML models are deployed in industry.
+output:<img width="198" height="93" alt="Image" src="https://github.com/user-attachments/assets/ebae6e8b-3146-41bb-9f66-72792e3b6537" />
